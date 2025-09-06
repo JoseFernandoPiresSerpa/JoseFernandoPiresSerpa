@@ -1,24 +1,14 @@
-<!-- Banner -->
+<!-- Banner com imagem temática -->
 <p align="center">
-  <img src="https://i.ibb.co/JvmN1cL/one-piece-banner.gif" width="100%" alt="Banner One Piece com código" />
+  <img src="https://i.ibb.co/JvmN1cL/one-piece-banner.gif" width="100%" alt="Banner animado" />
 </p>
 
-<h1 align="center">👋 Ahoy! Eu sou José Fernando Pires Serpa</h1>
-<h3 align="center">Fullstack Developer in progress | Java + Angular | Lifelong Learner</h3>
+<h1 align="center">José Fernando Pires Serpa</h1>
+<h3 align="center">Fullstack Dev | Java + Angular</h3>
 
 ---
 
-### 🏴‍☠️ Sobre mim  
-
-Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento **Fullstack**.  
-Atualmente estudo **Java** para o backend e **Angular** para o frontend, além de melhorar meu **inglês** para atuar globalmente como desenvolvedor.  
-Adoro unir criatividade e código – minha inspiração vem do mundo de **One Piece** e da ideia de nunca parar de explorar novas ilhas do conhecimento.  
-
-💡 _"Cada linha de código é como um passo rumo ao One Piece do desenvolvimento."_  
-
----
-
-### ⚙️ Tecnologias & Ferramentas  
+### ⚙️ Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -29,13 +19,9 @@ Adoro unir criatividade e código – minha inspiração vem do mundo de **One P
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="80" />
-</p>
-
 ---
 
-### 📊 Estatísticas GitHub  
+### 📊 Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
@@ -44,18 +30,7 @@ Adoro unir criatividade e código – minha inspiração vem do mundo de **One P
 
 ---
 
-### 🌱 Interesses & Hobbies  
-
-Além da programação, adoro **ler**, **desenhar**, **tocar violão** e **cantar**.  
-Me inspiro no espírito aventureiro do Luffy para nunca parar de aprender novas coisas.  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="120"/>
-</p>
-
----
-
-### 🌐 Onde me encontrar  
+### 🌐 Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
@@ -66,8 +41,6 @@ Me inspiro no espírito aventureiro do Luffy para nunca parar de aprender novas 
   </a>
 </p>
 
----
-
 <p align="center">
-⭐️ _“Aprender é uma aventura sem fim — cada commit é um passo para o meu One Piece pessoal.”_ ⭐️  
+  <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="120"/>
 </p>
