@@ -5,7 +5,7 @@
     color: transparent; 
     text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
     margin-bottom:5px;">
-  <img src="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="90px"> José Fernando Pires Serpa 
+<img src="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="90px"> José Fernando Pires Serpa <img src="bom-dia.gif" width="50px" >
 </h1>
 
 <h3 align="center" style="color:#8892b0; font-size:1.6em; margin-bottom:20px;">
@@ -50,8 +50,8 @@
 
 <!-- =================== GIFS E IMAGENS =================== -->
 
-<p align="left-bottom">
-  <img src="218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Descrição da imagem" width="100x" >
+<p align="center">
+  <img src="218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Descrição da imagem" width="200px" >
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <h1 align="center">🚀 Roadmap Fullstack Developer</h1>
-<p align="center"><i>Aprenda HTML, CSS, JS, Angular, Java, Banco de Dados, Git e inglês</i></p>
+<p align="center"><i>Estudos & Evolução</i></p>
 
 ---
 
@@ -90,74 +90,93 @@
 - **Mini projeto:** Página pessoal simples  🏅
 - **Git:** Commit, push  🏅
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
 ### 🖥️JavaScript Intermediário
 - Funções, arrays, objetos  
 - Eventos e DOM  
 - ES6 (let/const, arrow functions)  
 - **Projeto:** To-Do List  
-- **Git:** Branching  
+- **Git:** Branching
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🎨CSS e JS Avançado
 - Animações, transições, pseudo-classes  🥈
 - Layout responsivo (media queries)  🥈
 - Fetch API, async/await  
 - **Projeto:** Página interativa  
-- **Git:** Merge e resolução de conflitos  
+- **Git:** Merge e resolução de conflitos
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ###⚛️Angular Básico
 - Estrutura do projeto, componentes, templates  
 - Diretivas e pipes  
 - **Projeto:** To-Do List com Angular
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
 ### 🔧Angular Intermediário
 - Forms, validações, HTTP Client  
 - Rotas, navegação  
 - **Projeto:** Cadastro integrado com backend
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🚀 Angular Avançado
 - Lazy loading, Observables, RxJS  
 - Testes unitários  
 - **Projeto:** Dashboard interativo
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### ☕Fundamentos Java
 - Variáveis, tipos de dados, operadores  
 - OOP básico: classes e objetos  
-- **Projeto:** Calculadora simples  
+- **Projeto:** Calculadora simples
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🛠️ Java Intermediário
 - Arrays, listas, coleções  
 - Manipulação de arquivos  
 - Exceções  
 - **Projeto:** CRUD básico
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🏗️ Java Avançado
 - Herança, polimorfismo, interfaces  
 - Classes abstratas  
 - **Projeto:** Sistema de cadastro completo
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🗄️Banco de Dados SQL/Oracle
 - SELECT, INSERT, UPDATE, DELETE  
 - Joins, Stored Procedures, Triggers  
 - **Projeto:** Sistema com backend Java + DB
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
 ### 🌀NoSQL (MongoDB/Firebase)
 - CRUD em NoSQL  
 - Integração com Angular/Java  
 - **Projeto:** Sistema simples usando NoSQL
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 ### 🏁Fullstack & Portfólio
 - Angular + Java + DB completo  
 - Deploy: Heroku/Netlify  
 - Testes avançados, CI/CD  
 - **Projeto final:** Blog ou e-commerce  
-- Git: Versionamento avançado  
-- Inglês: README e documentação completa
+- Git: Versionamento avançado
+
+<p align="center">
 
 ---
-
 <p align="center">
-  <i>💡Meu Progresso💡</i>
-</p>
-<p align="center">
-<img src="216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">
+<img src="216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 </p>
