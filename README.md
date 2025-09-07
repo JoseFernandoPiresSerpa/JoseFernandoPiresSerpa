@@ -73,74 +73,79 @@
 </p>
 
 ---
+<p align="center">
+  <span style="font-size:20px;">🏅 <b>Concluído:</b> Você terminou o módulo com sucesso.</span><br>
+  <span style="font-size:20px;">🥈 <b>Em progresso:</b> Você está estudando e praticando o módulo.</span><br>
+  <span style="font-size:20px;">🥉 <b>Noções básicas:</b> Já viu o essencial, mas ainda precisa aprofundar.</span>
+</p>
 
-### 🌐 Mês 1: Fundamentos Web
-- **HTML:** Tags básicas, links, imagens, listas, tabelas  
-- **CSS:** Seletores, cores, fontes, box model  
-- **CSS:** Flexbox e Grid  
+
+##
+
+### 🌐 Fundamentos Web
+- **HTML:** Tags básicas, links, imagens, listas, tabelas 🥈 
+- **CSS:** Seletores, cores, fontes, box model  🥈
+- **CSS:** Flexbox e Grid  🥈
 - **JS:** Variáveis, operadores, loops, if/else  
-- **Mini projeto:** Página pessoal simples  
-- **Git:** Commit, push  
-- **Inglês:** Vocabulário básico
+- **Mini projeto:** Página pessoal simples  🏅
+- **Git:** Commit, push  🏅
 
-### 🖥️ Mês 2: JavaScript Intermediário
+### 🖥️JavaScript Intermediário
 - Funções, arrays, objetos  
 - Eventos e DOM  
 - ES6 (let/const, arrow functions)  
 - **Projeto:** To-Do List  
 - **Git:** Branching  
-- **Inglês:** Documentação simples
 
-### 🎨 Mês 3: CSS e JS Avançado
-- Animações, transições, pseudo-classes  
-- Layout responsivo (media queries)  
+### 🎨CSS e JS Avançado
+- Animações, transições, pseudo-classes  🥈
+- Layout responsivo (media queries)  🥈
 - Fetch API, async/await  
 - **Projeto:** Página interativa  
 - **Git:** Merge e resolução de conflitos  
-- **Inglês:** Termos avançados
 
-### ⚛️ Mês 4: Angular Básico
+###⚛️Angular Básico
 - Estrutura do projeto, componentes, templates  
 - Diretivas e pipes  
 - **Projeto:** To-Do List com Angular
 
-### 🔧 Mês 5: Angular Intermediário
+### 🔧Angular Intermediário
 - Forms, validações, HTTP Client  
 - Rotas, navegação  
 - **Projeto:** Cadastro integrado com backend
 
-### 🚀 Mês 6: Angular Avançado
+### 🚀 Angular Avançado
 - Lazy loading, Observables, RxJS  
 - Testes unitários  
 - **Projeto:** Dashboard interativo
 
-### ☕ Mês 7: Fundamentos Java
+### ☕Fundamentos Java
 - Variáveis, tipos de dados, operadores  
 - OOP básico: classes e objetos  
 - **Projeto:** Calculadora simples  
 
-### 🛠️ Mês 8: Java Intermediário
+### 🛠️ Java Intermediário
 - Arrays, listas, coleções  
 - Manipulação de arquivos  
 - Exceções  
 - **Projeto:** CRUD básico
 
-### 🏗️ Mês 9: Java Avançado
+### 🏗️ Java Avançado
 - Herança, polimorfismo, interfaces  
 - Classes abstratas  
 - **Projeto:** Sistema de cadastro completo
 
-### 🗄️ Mês 10: Banco de Dados SQL/Oracle
+### 🗄️Banco de Dados SQL/Oracle
 - SELECT, INSERT, UPDATE, DELETE  
 - Joins, Stored Procedures, Triggers  
 - **Projeto:** Sistema com backend Java + DB
 
-### 🌀 Mês 11: NoSQL (MongoDB/Firebase)
+### 🌀NoSQL (MongoDB/Firebase)
 - CRUD em NoSQL  
 - Integração com Angular/Java  
 - **Projeto:** Sistema simples usando NoSQL
 
-### 🏁 Mês 12: Fullstack & Portfólio
+### 🏁Fullstack & Portfólio
 - Angular + Java + DB completo  
 - Deploy: Heroku/Netlify  
 - Testes avançados, CI/CD  
@@ -152,4 +157,7 @@
 
 <p align="center">
   <i>💡Meu Progresso💡</i>
+</p>
+<p align="center">
+<img src="216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">
 </p>
