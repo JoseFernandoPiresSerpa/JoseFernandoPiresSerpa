@@ -34,6 +34,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/feed">
+
+    
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/nandelicia24">
@@ -47,3 +49,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif" width="120"/>
 </p>
+<img src="octocat-1757231108809.png" alt="Descrição da imagem" width="300">
