@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center" style="color:#8892b0; font-size:1.6em; margin-bottom:20px;">
-  🌐 Fullstack Dev | Java + Angular | 🚀 Criando experiências incríveis
+  🌐 Fullstack Dev | Java + Angular |👴23 |🇧🇷asília-DF
 </h3>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
