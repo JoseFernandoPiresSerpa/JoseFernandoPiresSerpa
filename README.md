@@ -30,8 +30,8 @@
 
 <!-- =================== STATS =================== -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseFernandoPiresSerpa&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseFernandoPiresSerpa&show_icons=true&theme=tokyonight&cache=20251210" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight&cache=20251210" />
 </p>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
