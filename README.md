@@ -30,7 +30,7 @@
 
 <!-- =================== STATS =================== -->
 <p align="center">
-<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 
 </p>
