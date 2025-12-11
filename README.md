@@ -1,20 +1,18 @@
-<!-- =================== TÍTULO =================== -->
+<!-- =================== TÍTULOS =================== -->
 <h1 align="center" style="font-size:3.5em; 
     background: linear-gradient(90deg, #4facfe, #00f2fe, #43e97b, #fef253); 
     -webkit-background-clip: text; 
     color: transparent; 
     text-shadow: 2px 2px 8px rgba(0,0,0,0.6);
     margin-bottom:5px;">
-<img src="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="90px"> 
-José Fernando Pires Serpa 
-<img src="bom-dia.gif" width="50px">
+<img src="371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" width="90px"> José Fernando Pires Serpa <img src="bom-dia.gif" width="50px" >
 </h1>
 
 <h3 align="center" style="color:#8892b0; font-size:1.6em; margin-bottom:20px;">
-  🌐 Fullstack Dev | Java + Angular | 👴23 | 🇧🇷 Brasília-DF
+  🌐 Fullstack Dev | Java + Angular |👴23 |🇧🇷asília-DF
 </h3>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px auto; width:80%;">
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 <!-- =================== STACK =================== -->
 <p align="center">
@@ -25,40 +23,38 @@ José Fernando Pires Serpa
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 <p align="center">
 <img src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px auto; width:80%;">
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 <!-- =================== STATS =================== -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseFernandoPiresSerpa&show_icons=true&theme=tokyonight&cache=20251210" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight&cache=20251210" />
+<img src="https://img.shields.io/badge/Fullstack%20Roadmap-Ativo-blue?style=for-the-badge" alt="Roadmap" />
 </p>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px auto; width:80%;">
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 <!-- =================== REDES SOCIAIS =================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-fernando-pires-serpa-175605152" target="_blank">
-    <img src="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="border-radius:50%; padding:15px;" />
+  <a href="[https://www.linkedin.com/feed](https://www.linkedin.com/in/jose-fernando-pires-serpa-175605152)" target="_blank">
+ 
+<img   alt="image" src="235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" style="border-radius:50" padding:15px  />
   </a>
   <a href="https://www.instagram.com/nandelicia24" target="_blank">
-    <img src="235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" style="border-radius:50%; padding:15px;" />
+    <img src="235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" style="border-radius:50%; padding:15px;"/>
   </a>
+
 </p>
 
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px auto; width:80%;">
+<!-- =================== GIFS E IMAGENS =================== -->
 
-<!-- =================== ROADMAP HEADER =================== -->
 <p align="center">
-  <img src="218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200px"/>
+  <img src="218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Descrição da imagem" width="200px" >
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fullstack-Roadmap-blue?style=for-the-badge" alt="Roadmap">
+  <img src="https://img.shields.io/badge/Fullstack-Roadmap-blue?style=for-the-badge&logo=appveyor" alt="Roadmap">
 </p>
 
 <h1 align="center">🚀 Roadmap Fullstack Developer</h1>
@@ -76,78 +72,110 @@ José Fernando Pires Serpa
 </p>
 
 ---
-
 <p align="center">
-  <span style="font-size:20px;">🏅 <b>Concluído:</b> módulo finalizado.</span><br>
-  <span style="font-size:20px;">🥈 <b>Em progresso:</b> estudando e praticando.</span><br>
-  <span style="font-size:20px;">🥉 <b>Noções básicas:</b> já viu o essencial, mas precisa aprofundar.</span>
+  <span style="font-size:20px;">🏅 <b>Concluído:</b> Você terminou o módulo com sucesso.</span><br>
+  <span style="font-size:20px;">🥈 <b>Em progresso:</b> Você está estudando e praticando o módulo.</span><br>
+  <span style="font-size:20px;">🥉 <b>Noções básicas:</b> Já viu o essencial, mas ainda precisa aprofundar.</span>
 </p>
 
----
 
-## 🌐 Fundamentos Web
-- **HTML:** Tags básicas, links, imagens, listas, tabelas 🥈  
-- **CSS:** Seletores, cores, fontes, box model 🥈  
-- **CSS:** Flexbox e Grid 🥈  
+##
+
+### 🌐 Fundamentos Web
+- **HTML:** Tags básicas, links, imagens, listas, tabelas 🥈 
+- **CSS:** Seletores, cores, fontes, box model  🥈
+- **CSS:** Flexbox e Grid  🥈
 - **JS:** Variáveis, operadores, loops, if/else  
-- **Mini projeto:** Página pessoal simples 🏅  
-- **Git:** Commit, push 🏅  
+- **Mini projeto:** Página pessoal simples  🏅
+- **Git:** Commit, push  🏅
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
-## 🖥️ JavaScript Intermediário
+### 🖥️JavaScript Intermediário
 - Funções, arrays, objetos  
 - Eventos e DOM  
 - ES6 (let/const, arrow functions)  
 - **Projeto:** To-Do List  
-- **Git:** Branching  
+- **Git:** Branching
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
-## 🎨 CSS e JS Avançado
-- Animações e transições 🥈  
-- Layout responsivo  
+### 🎨CSS e JS Avançado
+- Animações, transições, pseudo-classes  🥈
+- Layout responsivo (media queries)  🥈
 - Fetch API, async/await  
 - **Projeto:** Página interativa  
-- **Git:** Merge e resolução de conflitos  
+- **Git:** Merge e resolução de conflitos
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
-## ⚛️ Angular Básico
-- Estrutura, componentes e templates  
+###⚛️Angular Básico
+- Estrutura do projeto, componentes, templates  
 - Diretivas e pipes  
-- **Projeto:** To-Do List com Angular  
+- **Projeto:** To-Do List com Angular
 
----
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
-## 🔧 Angular Intermediário
-- Forms e validações  
-- Rotas e navegação  
-- HTTP Client  
-- **Projeto:** CRUD integrado com backend  
+### 🔧Angular Intermediário
+- Forms, validações, HTTP Client  
+- Rotas, navegação  
+- **Projeto:** Cadastro integrado com backend
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
----
-
-## 🚀 Angular Avançado
-- Lazy loading  
-- Observables, RxJS  
+### 🚀 Angular Avançado
+- Lazy loading, Observables, RxJS  
 - Testes unitários  
-- **Projeto:** Dashboard completo  
+- **Projeto:** Dashboard interativo
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
----
+### ☕Fundamentos Java
+- Variáveis, tipos de dados, operadores  
+- OOP básico: classes e objetos  
+- **Projeto:** Calculadora simples
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
-## ☕ Fundamentos Java
-- Variáveis, tipos e operadores  
-- Classes e objetos  
-- **Projeto:** Calculadora simples  
-
----
-
-## 🛠️ Java Intermediário
-- Arrays, listas e coleções  
+### 🛠️ Java Intermediário
+- Arrays, listas, coleções  
 - Manipulação de arquivos  
 - Exceções  
-- **Projeto:** CRUD básico  
+- **Projeto:** CRUD básico
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
+### 🏗️ Java Avançado
+- Herança, polimorfismo, interfaces  
+- Classes abstratas  
+- **Projeto:** Sistema de cadastro completo
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
+### 🗄️Banco de Dados SQL/Oracle
+- SELECT, INSERT, UPDATE, DELETE  
+- Joins, Stored Procedures, Triggers  
+- **Projeto:** Sistema com backend Java + DB
+
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
+### 🌀NoSQL (MongoDB/Firebase)
+- CRUD em NoSQL  
+- Integração com Angular/Java  
+- **Projeto:** Sistema simples usando NoSQL
+  
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
+
+### 🏁Fullstack & Portfólio
+- Angular + Java + DB completo  
+- Deploy: Heroku/Netlify  
+- Testes avançados, CI/CD  
+- **Projeto final:** Blog ou e-commerce  
+- Git: Versionamento avançado
+
+<p align="center">
 
 ---
-
+<p align="center">
+<img src="216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
+</p>
