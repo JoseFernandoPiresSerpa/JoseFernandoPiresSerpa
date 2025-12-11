@@ -29,8 +29,7 @@
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
 
 <!-- =================== STATS =================== -->
-<p align="center">
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight" alt="Top Languages" />](https://githubstats.com.br/api/stats?username=JoseFernandoPiresSerpa&theme=dark&showBorder=true&language=pt&type=stats)
+![GitHub Stats](https://githubstats.com.br/api/stats?username=JoseFernandoPiresSerpa&theme=dark&showBorder=true&language=pt&type=stats)
 
 
 </p>
