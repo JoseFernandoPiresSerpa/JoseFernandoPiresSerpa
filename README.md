@@ -30,6 +30,7 @@
 
 <!-- =================== STATS =================== -->
 ![GitHub Stats](https://githubstats.com.br/api/stats?username=JoseFernandoPiresSerpa&theme=dark&showBorder=true&language=pt&type=stats)
+<img src="https://github-readme-stats.zcy.dev/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 
 </p>
