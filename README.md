@@ -30,7 +30,8 @@
 
 <!-- =================== STATS =================== -->
 <p align="center">
-<img src="https://img.shields.io/badge/Fullstack%20Roadmap-Ativo-blue?style=for-the-badge" alt="Roadmap" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFernandoPiresSerpa&layout=compact&langs_count=8&theme=tokyonight" />
+
 </p>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #4facfe, #00f2fe, #43e97b, #fef253); margin:40px 0; width:80%;">
